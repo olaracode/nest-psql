@@ -9,6 +9,8 @@
 
 Restful API created as a study case for Nest.js. Using a docker container with a postgres:13 image configured and Prisma as the ORM
 
+### Table of content:
+
 - [Docs](#official-docs)
 - [Installation](#installation)
 - [Database Scripts](#database-scripts)
